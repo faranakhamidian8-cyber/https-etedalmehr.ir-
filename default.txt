@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa-IR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="BasisCore">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>حمیدرضا اعتدال‌مهر - از کدنویسی تا اقتصاد دیجیتال</title>
+    <meta name="description" content="صفحهٔ شخصی حمیدرضا اعتدال‌مهر؛ بنیان‌گذار منظومه‌نگاران و اکوسیستم بیسیس‌کور، و مدافع تأسیس اتاق اقتصاد دیجیتال." />
+    <link rel="alternate" hreflang="fa" href="https://etedalmehr.ir/fa/">
+    <link rel="alternate" hreflang="en" href="https://etedalmehr.ir/en/">
+    <link rel="alternate" hreflang="ar" href="https://etedalmehr.ir/ar/">
+    <link rel="canonical" href="https://etedalmehr.ir/fa/">
+    <basis core="call" file="style.inc"></basis>
+    <script type="application/ld+json">
+    { "@context":"https://schema.org","@graph":[
+      { "@type":"Person","@id":"https://etedalmehr.ir/#person","name":"حمیدرضا اعتدال‌مهر",
+        "alternateName":["Hamidreza Etedalmehr","حميدرضا اعتدال مهر"],"url":"https://etedalmehr.ir/fa/",
+        "jobTitle":"بنیان‌گذار منظومه‌نگاران و اکوسیستم بیسیس‌کور","sameAs":[] },
+      { "@type":"WebSite","@id":"https://etedalmehr.ir/#website","url":"https://etedalmehr.ir/",
+        "inLanguage":["fa","en","ar"],"about":{"@id":"https://etedalmehr.ir/#person"} }
+    ]}
+    </script>
+</head>
+<body>
+
+    <!-- منابعِ داده -->
+    <basis core="dbsource" source="basiscore" name="db" lid="1" mid="1" catid="65933">
+    <member type="list" name="blogslider" perpage="6" propertyid="97888,7244" size="332x221" ord="id desc"></member>
+</basis>
+
+    <basis core="call" file="header.inc"></basis>
+
+    <!-- hero (متنِ ثابتِ معرفی - اول‌شخص) -->
+    <section class="hero"><div class="wrap">
+        <span class="rail r"><span style="top:0"></span><span style="top:120px"></span><span style="top:240px"></span></span>
+        <span class="rail l"><span style="top:60px"></span><span style="top:200px"></span></span>
+        <p class="eyebrow hero-eye">basiscore · از ۱۳۷۹</p>
+        <h1>از کدنویسی تا <em>اقتصاد دیجیتال</em></h1>
+        <div class="hero-rule"></div>
+        <p class="lead">از سال ۱۳۷۹ با توسعهٔ سایتِ chaap.com به‌طور رسمی وارد حوزهٔ کسب‌وکارهای اینترنتی شدم.
+        در دو دههٔ گذشته افتخارِ همکاری یا مدیریتِ بیش از هزار پروژهٔ مجازی‌سازیِ کسب‌وکار، و تأسیسِ
+        <b>هولدینگ منظومه‌نگاران</b> را داشته‌ام؛ و باارزش‌ترین دستاوردم، پیدایشِ <b>اکوسیستم بیسیس‌کور</b> بوده است.
+        امیدوارم آنچه را به‌عنوان دانش‌آموزی سخت‌کوش آموخته‌ام، متواضعانه و مسئولانه با شما به اشتراک بگذارم.</p>
+    </div></section>
+
+    <!-- سنگ‌بنای محورِ آیندهٔ صنف -->
+    <section class="section"><div class="wrap">
+        <div class="feat">
+            <div>
+                <span class="badge">سنگ‌بنای محورِ آیندهٔ صنف</span>
+                <h2>به‌سوی اتاق اقتصاد دیجیتال</h2>
+                <p>چرا کسب‌وکارِ اینترنتی «صنف» نیست، و چرا تنها راهِ برون‌رفت، نهادی نوین در خورِ شأنِ این اقتصاد است.</p>
+                <a class="btn" href="/digital-economy-chamber">خواندنِ منشور ←</a>
+            </div>
+            <div class="feat-aside">
+                <p class="k">در یک نگاه</p>
+                <ul><li>نقدِ نگاهِ صنفی به کسب‌وکار اینترنتی</li><li>کارنامهٔ سه نهادِ موجود</li><li>ده ویژگیِ اتاقِ پیشنهادی</li></ul>
+            </div>
+        </div>
+    </div></section>
+
+    <!-- محورها -->
+    <section class="section"><div class="wrap">
+        <div class="sec-head"><h2>محورهای کار</h2><a class="more" href="/topics">همهٔ محورها</a></div>
+        <div class="axes">
+            <a class="axis" href="/future-of-guild"><span class="num">محور ۰۱</span><h3>آیندهٔ صنف</h3><p>صنف، رگولاتوری و مسیرِ تأسیسِ اتاق اقتصاد دیجیتال.</p><div class="arrow">ورود به محور ←</div></a>
+            <a class="axis" href="/technology-basiscore"><span class="num">محور ۰۲</span><h3>فناوری و بیسیس‌کور</h3><p>زبان و اکوسیستمِ بومیِ توسعهٔ کسب‌وکارهای اینترنتی.</p><div class="arrow">ورود به محور ←</div></a>
+            <a class="axis" href="/entrepreneurship"><span class="num">محور ۰۳</span><h3>کارآفرینی و منظومه‌نگاران</h3><p>تجربهٔ ساختِ هولدینگ و مدیریتِ پروژه‌های مجازی‌سازی.</p><div class="arrow">ورود به محور ←</div></a>
+        </div>
+    </div></section>
+
+ <!-- تازه‌ها (فقط ۶ مقاله آخر دسته اندیشه) -->
+<section class="section"><div class="wrap">
+    <div class="sec-head"><h2>تازه‌ها</h2><a class="more" href="/article-list">آرشیو کامل</a></div>
+    <basis core="print" datamembername="db.blogslider">
+        <layout>
+            <div class="grid">@child</div>
+        </layout>
+        <face filter="prp_97888 = 'article'">
+            <a class="card" href="/@link">
+                <div class="thumb"><img src="[##cms.cms.cdn##]/@00332X00221prp" alt="@title" /></div>
+                <div class="body"><span class="topic"><i class="lni lni-leaf"></i> مقاله</span><h3>@title</h3><p>@prp_7244</p></div>
+            </a>
+        </face>
+    </basis>
+</div></section>
+
+    <basis core="call" file="footer.inc"></basis>
+
+    <script>
+    (function(){var m=document.querySelector('.menu-btn'),n=document.querySelector('.nav');
+    if(m)m.addEventListener('click',function(){var o=n.style.display==='flex';n.style.cssText=o?'':'display:flex;position:absolute;top:78px;inset-inline-end:32px;flex-direction:column;background:var(--surface);border:1px solid var(--hair);border-radius:10px;padding:14px 20px;gap:14px;z-index:40';});})();
+    </script>
+    <script src="https://cdn.basiscore.net/_js/basiscore-2.4.16.min.js"></script>
+    <script src="https://cdn.basiscore.net/_js/alasql.min.js"></script>
+    <script src="[##cms.cms.cdn##]/js/host.js"></script>
+</body>
+</html>
