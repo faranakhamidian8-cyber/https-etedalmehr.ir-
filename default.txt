@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="author" content="BasisCore">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>حمیدرضا اعتدال‌مهر - از کدنویسی تا اقتصاد دیجیتال</title>
+    <title>از کدنویسی تا اقتصاد دیجیتال</title>
     <meta name="description" content="صفحهٔ شخصی حمیدرضا اعتدال‌مهر؛ بنیان‌گذار منظومه‌نگاران و اکوسیستم بیسیس‌کور، و مدافع تأسیس اتاق اقتصاد دیجیتال." />
     <link rel="alternate" hreflang="fa" href="https://etedalmehr.ir/fa/">
     <link rel="alternate" hreflang="en" href="https://etedalmehr.ir/en/">
